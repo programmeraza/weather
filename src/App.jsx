@@ -1,10 +1,10 @@
 import React from 'react'
-import WetherApp from './components/WetherApp/WetherApp'
+import Weather from './Compenents/Weather'
 
 const App = () => {
   return (
     <>
-    <WetherApp />
+     <Weather />    
     </>
   )
 }
